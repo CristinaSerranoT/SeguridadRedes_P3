@@ -3,10 +3,8 @@
 
 &nbsp;
 
-
 • Implementar mecanismos de identificación y autenticación de usuarios. 
 
 &nbsp;
-
 
 • Implementar mecanismos de confidencialidad utilizando HTTPS.
